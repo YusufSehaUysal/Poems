@@ -1,2 +1,2 @@
-# poems
-https://yusufsehauysal.github.io/poems/
+# Poems
+https://yusufsehauysal.github.io/Poems/
