@@ -20,6 +20,6 @@
 
 # English
 
-<img src="path/to/your/image.png" alt="Description" width="500">
+<img src="images/44231_poem_47.jpg" alt="Description" width="500">
  
-  ![Poem Image](images/44231_poem_47.jpg)
+![Poem Image](images/44231_poem_47.jpg)
